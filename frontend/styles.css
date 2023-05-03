@@ -12,7 +12,8 @@ html {
 :root {
     --black: #181818;
     --white: #FFFFFF;
-    --button: #FF4D4D;
+    /* --button: #FF4D4D; */
+    --button: #FF4C;
     --background: #F8F9FF;
 
     --headingFont: "Arial", sans-serif;
