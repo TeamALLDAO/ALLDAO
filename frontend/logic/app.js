@@ -33,6 +33,7 @@ closeSidebarButton.addEventListener('click', function () {
     sideBar.style.display = 'none';
 });
 
+
 // nav drop down functionality
 addDao.addEventListener('mouseover', function () {
   dropdown1.style.display = 'block';
