@@ -18,26 +18,6 @@ This repository contains the source code for the alldao platform. Currently, the
 
 - **Voting and Governance:** The platform includes mechanisms for voting and governance, allowing community members to participate in decision-making processes.
 
-## Installation
-
-To run alldao locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/TeamALLDAO/ALLDAO.git`
-2. Navigate to the project directory: `cd alldao`
-3. Open the index.html file in your preferred web browser.
-
-## Contributing
-
-We welcome contributions from the community to help improve alldao. If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature`
-3. Make your changes and commit them: `git commit -am 'Add some feature'`
-4. Push the branch to your forked repository: `git push origin feature/your-feature`
-5. Create a pull request detailing your changes.
-
 ## Contact
 
 If you have any questions or suggestions regarding alldao, please feel free to reach out at [odohvictor47@gmail.com](mailto:odohvictor47@gmail.com).
-
-Happy collaborating!
